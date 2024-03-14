@@ -1,0 +1,4 @@
+volumes/postgres/data/*
+venv
+app/migrations/versions
+**/__pycache__
